@@ -1,7 +1,6 @@
-﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Swift
+namespace WebAutomation
 {
     [TestClass]
     public class UnitTest1
